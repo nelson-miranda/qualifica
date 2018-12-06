@@ -1,7 +1,7 @@
 <map version="docear 1.1" project="16716D5BD73BLW2JIBQ89J5BGZ1C6D71E832" project_last_home="file:/C:/Users/Nelson/Docear/projects/Qualifica" dcr_id="1543687260162_35pq1fk9ry447lozh5n70e0d5">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="Qualifica&#xe7;&#xe3;o" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1543687307409"><hook NAME="MapStyle">
-    <properties show_note_icons="true" show_icon_for_attributes="true"/>
+    <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -92,7 +92,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Justificativa" ID="ID_996945178" CREATED="1543687400815" MODIFIED="1543876757145"><richcontent TYPE="NOTE">
@@ -119,7 +118,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Objetivos" ID="ID_122329392" CREATED="1543687407265" MODIFIED="1543689594452"><richcontent TYPE="NOTE">
@@ -229,7 +227,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Cap&#xed;tulo 1 d&#xe1; uma vis&#xe3;o geral dos conceitos b&#xe1;sicos da Web Sem&#xe2;ntica e de dados de sa&#xfa;de" ID="ID_307651591" CREATED="1543689714259" MODIFIED="1543689887593"/>
 <node TEXT="Cap&#xed;tulo 2 cobre aspectos de integra&#xe7;&#xe3;o de dados com foco no dom&#xed;nio da sa&#xfa;de;" ID="ID_1007150041" CREATED="1543689761363" MODIFIED="1543689770259"/>
@@ -521,7 +518,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Representa&#xe7;&#xe3;o do Conhecimento" ID="ID_174567811" CREATED="1543688135159" MODIFIED="1543693287568"><richcontent TYPE="NOTE">
 
@@ -884,7 +880,7 @@
 </node>
 <node TEXT="Proposta" POSITION="right" ID="ID_640999083" CREATED="1543687379654" MODIFIED="1543687386268">
 <edge COLOR="#ffff00"/>
-<node TEXT="Plano de Trabalho" ID="ID_764013697" CREATED="1543687695929" MODIFIED="1543778774953"><richcontent TYPE="NOTE">
+<node TEXT="Plano de Trabalho" ID="ID_764013697" CREATED="1543687695929" MODIFIED="1544107125267"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -901,10 +897,11 @@
       Tamb&#233;m &#233; um objetivo propor (ou adotar) um modelo sem&#226;ntico (ontologia) do prontu&#225;rio elet&#244;nico do paciente (pep).
     </p>
     <p>
-      Tamb&#233; pode ser necess&#225;rio capturar dados, a partir de dados semi-estruturados ou n&#227;o estruturados, quando esses dados n&#227;o estiverem dispon&#237;veis num formato compat&#237;vel com RDF.
+      Tamb&#233;m pode ser necess&#225;rio capturar dados, a partir de dados semi-estruturados ou n&#227;o estruturados, quando esses dados n&#227;o estiverem dispon&#237;veis num formato compat&#237;vel com RDF.
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="Atividades Completadas" ID="ID_1218632659" CREATED="1543688262098" MODIFIED="1543688270346"/>
 <node TEXT="Atividades Programadas" ID="ID_1749601000" CREATED="1543688270622" MODIFIED="1543688282424"/>
