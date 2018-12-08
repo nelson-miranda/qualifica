@@ -258,13 +258,36 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Servi&#xe7;os" ID="ID_873364669" CREATED="1543687786112" MODIFIED="1543694299609">
+<node TEXT="Servi&#xe7;os (Padr&#xf5;es W3C)" ID="ID_873364669" CREATED="1543687786112" MODIFIED="1544116412161"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      As tr&#234;s tecnologias fundamentais para a inve&#231;&#227;o da Web foram: o HTML (Hypertext Markup Language), o servidor HTTP (Hypertext Transfer Protocol) e o URI (Unified Resource Identifier). Estas mesmas tecnologias s&#227;o utilizadas na Web Sem&#226;ntica e no Linked Data. (Isotani)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      No Brasil, a portaria n&#186; 2.073/2011, ao regulamentar o uso de padr&#245;es para a interoperabilidade e informa&#231;&#245;es em sa&#250;de, indica o uso dos servi&#231;os SOAP 1.1 (Simple Object Access Protocol) para Web Service; WS-Security para criptografia e seguran&#231;a das informa&#231;&#245;es; e para a descri&#231;&#227;o e defini&#231;&#227;o dos Web Services, a WSDL (Web Service Description Language. (portaria 2073/11)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      O formato XML (Extensible Markup Language) e sua linguagem de restri&#231;&#245;es Schema XML, mantidos pela W3C e utilizado para representar informa&#231;&#245;es estruturadas, tamb&#233;m consta do cat&#225;logo oferecido pela portaria n&#186; 2.073/11. Representando um ponto de intersec&#231;&#227;o entre os padr&#245;es de sa&#250;de e as tecnologias da Web Sem&#226;ntica e do Linked Data.
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="SOAP 1.1" ID="ID_1100643121" CREATED="1543690071592" MODIFIED="1543690073680"/>
 <node TEXT="WS-Security" ID="ID_662967565" CREATED="1543690090812" MODIFIED="1543690092561"/>
-</node>
-<node TEXT="Padr&#xf5;es Funcionais" ID="ID_193977162" CREATED="1543687868436" MODIFIED="1543690172788">
-<node TEXT="XML e XML Schemas" ID="ID_1340381260" CREATED="1543690176294" MODIFIED="1543690188943"/>
-<node TEXT="ISBT 128" ID="ID_1088607913" CREATED="1543690189417" MODIFIED="1543690200785"/>
+<node TEXT="HTTP" ID="ID_1317513071" CREATED="1544112243097" MODIFIED="1544112246833"/>
+<node TEXT="XML e XML Schemas" ID="ID_1340381260" CREATED="1543690176294" MODIFIED="1543690188943" MOVED="1544115942570"/>
 </node>
 <node TEXT="Documentos Estruturados" ID="ID_1999912725" CREATED="1543690122412" MODIFIED="1543690132864">
 <node TEXT="Clinical Document Architecture (CDA)" ID="ID_974992762" CREATED="1543687913529" MODIFIED="1543690335897" MOVED="1543690147753"><richcontent TYPE="NOTE">
@@ -324,6 +347,21 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="ISBT 128" ID="ID_1088607913" CREATED="1543690189417" MODIFIED="1544116931194" MOVED="1544115958839"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      O ISBT 128 &#233; um padr&#227;o internacional para a identifica&#231;&#227;o, rotulagem e troca de informa&#231;&#245;es, entre pa&#237;ses e sistemas de cuidados de sa&#250;de, a cerca de produtos m&#233;dicos de origem humana (sangue, c&#233;lulas, tecidos, leite humano e produtos de &#243;rg&#227;os).
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Mensagens" ID="ID_810426579" CREATED="1543687789572" MODIFIED="1543694319568">
 <node TEXT="HL7 e HlL7 FHIR" ID="ID_669320147" CREATED="1543687973390" MODIFIED="1543690707504"><richcontent TYPE="NOTE">
@@ -346,7 +384,21 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="DICOM" ID="ID_1149570123" CREATED="1543690719833" MODIFIED="1543690724289"/>
+<node TEXT="DICOM" ID="ID_1149570123" CREATED="1543690719833" MODIFIED="1544117528154"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      O padr&#227;o DICOM (Digital Imaging and Communications in Medicine), mantido pelo National Electrical Manufacturers Association (NEMA), inclui um formato de arquivo e um protocolo de comunica&#231;&#227;o para manipula&#231;&#227;o, armazenamento, impress&#227;o e transmiss&#227;o de imagens m&#233;dicas. Serve de base para o sistemas PACS (Picture Archiving and Communication System).
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node TEXT="TISS" ID="ID_736079347" CREATED="1543687995671" MODIFIED="1543690788004"><richcontent TYPE="NOTE">
 
 <html>
@@ -362,8 +414,25 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Perfis e Categoriza&#xe7;&#xe3;o" ID="ID_1951500642" CREATED="1543687792157" MODIFIED="1543687803496">
-<node TEXT="IHE-PIX" ID="ID_442768906" CREATED="1543690805443" MODIFIED="1543690815958"/>
+<node TEXT="Perfis e Identifica&#xe7;&#xe3;o" ID="ID_1951500642" CREATED="1543687792157" MODIFIED="1544119275599">
+<node TEXT="IHE-PIX" ID="ID_442768906" CREATED="1543690805443" MODIFIED="1544119245375"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      O Integrating the Healthcare Enterprise (IHE) tem como objetivo incentivar o uso dos padr&#245;es j&#225; existentes, estabelecendo perfis para a implementa&#231;&#227;o desses padr&#245;es. Um dos grandes desafios da integra&#231;&#227;o de dados de sa&#250;de &#233; a identifica&#231;&#227;o &#250;nica de pacientes. Dentre os perfis de integra&#231;&#227;o do IHE, temos o PIX (Patient Identifier Cross-Referencing) respons&#225;vel pela gera&#231;&#227;o do Master Patient Index (MPI) de um identificador un&#237;voco a partir de um conjunto m&#237;nimo de atributos de identifica&#231;&#227;o e dados demogr&#225;ficos do paciente.
+    </p>
+    <p>
+      &#160;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Terminologias" ID="ID_1616876848" CREATED="1543687803830" MODIFIED="1543687811199">
 <node TEXT="SNOMED-CT" ID="ID_1919115126" CREATED="1543688045617" MODIFIED="1543690882816"><richcontent TYPE="NOTE">
@@ -414,8 +483,22 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="CIAP-2" ID="ID_1598478161" CREATED="1543690958579" MODIFIED="1543691070739"/>
-<node TEXT="TUSS" ID="ID_1582081127" CREATED="1543688060568" MODIFIED="1543691080973"><richcontent TYPE="NOTE">
+<node TEXT="CIAP-2" ID="ID_1598478161" CREATED="1543690958579" MODIFIED="1544120286670"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A Classifica&#231;&#227;o Internacional de Aten&#231;&#227;o Prim&#225;ria (CIAP-2) ou ICPC-2 (International Classification of Primary Care) foi desenvolvida pela Organiza&#231;&#227;o Mundial dos M&#233;dicos de Fam&#237;lia (WONCA) a partir de um trabalho da Organiza&#231;&#227;o Mundial de Sa&#250;de (OMS) cujo objetivo era classificar os motivos de consulta em aten&#231;&#227;o prim&#225;ria. &#201; mais adequado para a aten&#231;&#227;o prim&#225;ria do que a CID-10, por&#233;m n&#227;o a substitui. Normalmente, est&#225; atrelada &#224; sistematiza&#231;&#227;o de atendimento SOAP (Subjetivo, Objetivo, Avalia&#231;&#227;o e Plano).
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="TUSS" ID="ID_1582081127" CREATED="1543688060568" MODIFIED="1544121167167"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -425,12 +508,56 @@
     <p>
       A Terminologia Unificada da Sa&#250;de Suplementar (TUSS) foi criada em conjunto pela Ag&#234;ncia Nacional de Sa&#250;de Suplementar (ANS), Associa&#231;&#227;o M&#233;dica Brasileira (AMB), e o Comit&#234; de Padroniza&#231;&#227;o das Informa&#231;&#245;es em Sa&#250;de Suplementar (COPISS). Baseada na Classifica&#231;&#227;o Brasileira Hierarquizada de Procedimentos M&#233;dicos (CBHPM) t&#234;m como objetivo adotar uma terminologia comum a todos os atores do mercado nacional de sa&#250;de suplementar (hospitais, m&#233;dicos, laborat&#243;rios, etc.). Entendendo por sa&#250;de suplementar todo o atendimento privado de sa&#250;de, atrav&#233;s de um conv&#234;nio de plano de sa&#250;de, tendo como principais atores o Minist&#233;rio da Sa&#250;de, a ANS, a ANVISA, as operadores de planos de sa&#250;de, as seguradoras e os prestadores de servi&#231;o de assist&#234;ncia &#224; sa&#250;de. Al&#233;m, obviamente, do principal interessado que &#233; o paciente. A TUSS organiza os procedimentos m&#233;dicos por categorias, atribuindo-lhes um c&#243;digo e uma descri&#231;&#227;o padronizada (BRASIL, 2009).
     </p>
+    <p>
+      <b charset="utf-8" id="docs-internal-guid-5b5b4da4-7fff-1c37-ec9f-9f1c584f5a07" style="font-weight: normal"><a href="http://www.ans.gov.br/prestadores/tiss-troca-de-informacao-de-saude-suplementar" style="text-decoration: none"><u><font size="11pt" face="Arial" color="#1155cc">http://www.ans.gov.br/prestadores/tiss-troca-de-informacao-de-saude-suplementar</font></u></a></b>
+    </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="Tabela SUS (Sigtap)" ID="ID_1922347183" CREATED="1543692066082" MODIFIED="1543692085237"/>
-<node TEXT="CBHPM" ID="ID_551440016" CREATED="1543692093295" MODIFIED="1543692104151"/>
+<node TEXT="Tabela SUS (Sigtap)" ID="ID_1922347183" CREATED="1543692066082" MODIFIED="1544121226371"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b charset="utf-8" id="docs-internal-guid-181445b1-7fff-bc99-2ee4-3e728bd3b5b3" style="font-weight: normal"><font color="#000000" face="Arial">Em vigor desde janeiro de 2008, a Tabela de Procedimentos, Medicamentos, &#211;rteses, Pr&#243;teses e Materiais Especiais (OPM), conhecida como Tabela SUS, tr&#225;s todos os procedimentos que podem ser realizados no &#226;mbito do SUS (ambulatorial e hospitalar). Assim como medicamentos e OPM dispensados durante os procedimentos. Os procedimentos s&#227;o identificados por um c&#243;digo composto por tr&#234;s d&#237;gitos mais um d&#237;gito verificador e organizados em quatro n&#237;veis de agrega&#231;&#227;o: grupo, subgrupo e forma de organiza&#231;&#227;o. </font></b>
+    </p>
+    <p>
+      <b charset="utf-8" id="docs-internal-guid-cb6d1440-7fff-7005-d43c-a655a31cc893" style="font-weight: normal"><font color="#000000" face="Arial">Para gerenciar os mais de cinco mil itens da tabela, existe o Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e OPM (SIGTAP). Nele, est&#227;o contidas as regras de valida&#231;&#227;o para cada procedimento, por exemplo, quais CBO est&#227;o autorizados a realizar o procedimento, os CID permitidos, a idade m&#237;nima e m&#225;xima, o sexo, entre outras.</font></b>
+    </p>
+    <p>
+      <b charset="utf-8" id="docs-internal-guid-3003e157-7fff-abfe-e6ef-4731ffcf4cc3" style="font-weight: normal"><a href="http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp" style="text-decoration: none"><u><font size="11pt" face="Arial" color="#1155cc">http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp</font></u></a></b>
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="CBHPM" ID="ID_551440016" CREATED="1543692093295" MODIFIED="1544121130923"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b charset="utf-8" id="docs-internal-guid-70ad9394-7fff-1f98-fa69-83966c577406" style="font-weight: normal"><font size="11pt" face="Arial" color="#000000">A Classifica&#231;&#227;o Brasileira Hierarquizada de Procedimentos M&#233;dicos (CBHPM), criada pela Associa&#231;&#227;o M&#233;dica Brasileira (AMB), mant&#233;m compatibilidade com o padr&#227;o TISS e busca estabelecer um padr&#227;o m&#237;nimo e &#233;tico para a remunera&#231;&#227;o de procedimentos m&#233;dicos. &#201; utilizada para atendimentos particulares, isto &#233;, aqueles pagos com recursos do pr&#243;prio paciente ou de familiares.</font></b>
+    </p>
+    <p>
+      <b charset="utf-8" id="docs-internal-guid-8a8dbe13-7fff-9105-5c6a-c7928620c5c6" style="font-weight: normal"><a href="https://amb.org.br/cbhpm/" style="text-decoration: none"><u><font size="11pt" face="Arial" color="#1155cc">https://amb.org.br/cbhpm/</font></u></a></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node TEXT="RxNORM" ID="ID_569225810" CREATED="1543692104367" MODIFIED="1543692119370"/>
 <node TEXT="RadLex" ID="ID_1893119482" CREATED="1543692119592" MODIFIED="1543692122978"/>
 <node TEXT="NCI Thesaurus" ID="ID_1643745126" CREATED="1543692123171" MODIFIED="1543692137626"/>
@@ -860,10 +987,80 @@
 <node TEXT="Bioportal &#xe9; um reposit&#xf3;rio de ontologias biom&#xe9;dicas, o maior deles com mais de 700 ontologias" ID="ID_1080361652" CREATED="1543770562167" MODIFIED="1543770621279"/>
 </node>
 </node>
-<node TEXT="Linked Data Tools" ID="ID_1060415003" CREATED="1543687549961" MODIFIED="1543687566257">
-<node TEXT="Prot&#xe9;g&#xe9;" ID="ID_240135543" CREATED="1543770754335" MODIFIED="1543770760944"/>
-<node TEXT="Blazegraph" ID="ID_534686841" CREATED="1543770761716" MODIFIED="1543770784166"/>
-<node TEXT="GraphDB" ID="ID_1875485722" CREATED="1543770785231" MODIFIED="1543773624494"/>
+<node TEXT="Linked Data Tools" ID="ID_1060415003" CREATED="1543687549961" MODIFIED="1544126320821"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      As ferramentas de dados conectados (linked data) que ser&#227;o usadas neste trabalho podem ser resumidas como segue
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Para representar informa&#231;&#245;es de sa&#250;de na web sem&#226;ntica, usaremos ontologias que ser&#227;o editadas usando o editor de ontologias: Prot&#233;g&#233;. Editores de ontologia s&#227;o aplicativos projetados para auxiliar na cria&#231;&#227;o ou manipula&#231;&#227;o de ontologias. Eles costumam expressar ontologias em uma das muitas linguagens ontol&#243;gicas. Os dados sobre cuidados de sa&#250;de ser&#227;o extra&#237;dos de reposit&#243;rios e bancos de dados relacionais do Hospital das Cl&#237;nicas da Faculdade de Medicina de Mar&#237;lia (HCFAMEMA).
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Prot&#xe9;g&#xe9;" ID="ID_240135543" CREATED="1543770754335" MODIFIED="1544123573185"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Um editor de ontologias de c&#243;digo aberto e sistema de aquisi&#231;&#227;o de conhecimento.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      O Prot&#233;g&#233; fornece uma interface gr&#225;fica para usu&#225;rio definir ontologias. Inclui tamb&#233;m classificadores dedutivos para validar se os modelos s&#227;o consistentes e inferir novas informa&#231;&#245;es com base na an&#225;lise de uma ontologia. Neste trabalho, a ferramenta Prot&#233;g&#233; ser&#225; usada para editar
+    </p>
+    <p>
+      ontologias do dom&#237;nio da sa&#250;de e do prontu&#225;rio do paciente.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Blazegraph" ID="ID_534686841" CREATED="1543770761716" MODIFIED="1544124719664"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Uma triplestore e um banco de dados de grafos de c&#243;digo aberto para armazenar dados conectados (linked data), &#233; usado no endpoint SPARQL da Wikidata. Suporta RDF / SPARQL 1.1, compat&#237;vel com Sesame SAIL 2.7. O Blazegraph RDF store &#233; totalmente persistente, suporta RDFS e infer&#234;ncias em OWL.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="GraphDB" ID="ID_1875485722" CREATED="1543770785231" MODIFIED="1544125659088"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      O GraphDB &#233; um banco de dados de grafos sem&#226;nticos (triplestore), compat&#237;vel com os padr&#245;es W3C. Suporta RDF e SPARQL, usa a biblioteca RDF4J e trabalha com uma variedade de serializa&#231;&#245;es RDF (ex.: RDF/XML, N3, Turtle).
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Trabalhos Relacionados" POSITION="right" ID="ID_1632364020" CREATED="1543687358457" MODIFIED="1543687369172">
@@ -901,7 +1098,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Atividades Completadas" ID="ID_1218632659" CREATED="1543688262098" MODIFIED="1543688270346"/>
 <node TEXT="Atividades Programadas" ID="ID_1749601000" CREATED="1543688270622" MODIFIED="1543688282424"/>
