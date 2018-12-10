@@ -1,4 +1,4 @@
-<map version="docear 1.1" project="16716D5BD73BLW2JIBQ89J5BGZ1C6D71E832" project_last_home="file:/C:/Users/Nelson/Docear/projects/Qualifica" dcr_id="1543687260162_35pq1fk9ry447lozh5n70e0d5">
+<map version="docear 1.1" dcr_id="1543687260162_35pq1fk9ry447lozh5n70e0d5" project="16716D5BD73BLW2JIBQ89J5BGZ1C6D71E832" project_last_home="file:/C:/Users/Nelson/Docear/projects/Qualifica">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="Qualifica&#xe7;&#xe3;o" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1543687307409"><hook NAME="MapStyle">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
@@ -53,7 +53,7 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="6"/>
 <node TEXT="Introdu&#xe7;&#xe3;o" POSITION="right" ID="ID_1707601926" CREATED="1543687308910" MODIFIED="1543687320862">
 <edge COLOR="#ff0000"/>
-<node TEXT="Contextualiza&#xe7;&#xe3;o" ID="ID_1303038810" CREATED="1543687390211" MODIFIED="1543876483939"><richcontent TYPE="NOTE">
+<node TEXT="Contextualiza&#xe7;&#xe3;o" ID="ID_1303038810" CREATED="1543687390211" MODIFIED="1544478163654"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -61,7 +61,7 @@
   </head>
   <body>
     <p>
-      O objetivo dos cuidados de sa&#250;de &#233; a manuten&#231;&#227;o e a melhoria da sa&#250;de f&#237;sica e mental, especialmente atrav&#233;s da presta&#231;&#227;o de servi&#231;os m&#233;dicos. No DECS, cuidados de sa&#250;de refere-se a todos os aspectos da provis&#227;o e distribui&#231;&#227;o de servi&#231;os de sa&#250;de a uma popula&#231;&#227;o.
+      O objetivo dos cuidados de sa&#250;de &#233; a manuten&#231;&#227;o e a melhoria da sa&#250;de f&#237;sica e mental, especialmente atrav&#233;s da presta&#231;&#227;o de servi&#231;os m&#233;dicos. No DeCS da Biblioteca Virtual em Sa&#250;de (BVS), cuidados de sa&#250;de refere-se a todos os aspectos da provis&#227;o e distribui&#231;&#227;o de servi&#231;os de sa&#250;de a uma popula&#231;&#227;o. Os servi&#231;os de sa&#250;de v&#227;o desde preventivos at&#233; cuidados a pacientes internados ou n&#227;o. (DeCS, 2018)&#160;&#160;
     </p>
     <p>
       Os cuidados de sa&#250;de acontecem com as pessoas ao longo do tempo e est&#227;o relacionados a v&#225;rios aspectos: doen&#231;as, prescri&#231;&#245;es, drogas, procedimentos, dispositivos, faturamento (pedidos), genoma, entre outros.
@@ -92,7 +92,17 @@
     </p>
   </body>
 </html>
+
 </richcontent>
+<node TEXT="O objetivo dos cuidados de sa&#xfa;de &#xe9; a manuten&#xe7;&#xe3;o e a melhoria da sa&#xfa;de f&#xed;sica e mental, especialmente atrav&#xe9;s da presta&#xe7;&#xe3;o de servi&#xe7;os m&#xe9;dicos. No DeCS da Biblioteca Virtual em Sa&#xfa;de (BVS), cuidados de sa&#xfa;de refere-se a todos os aspectos da provis&#xe3;o e distribui&#xe7;&#xe3;o de servi&#xe7;os de sa&#xfa;de a uma popula&#xe7;&#xe3;o. Os servi&#xe7;os de sa&#xfa;de v&#xe3;o desde preventivos at&#xe9; cuidados a pacientes internados ou n&#xe3;o.&#xa;http://decs.bvs.br/cgi-bin/wxis1660.exe/decsserver/" ID="ID_1202004660" CREATED="1544478637655" MODIFIED="1544480540969"/>
+<node TEXT="Os cuidados de sa&#xfa;de acontecem com as pessoas ao longo do tempo e est&#xe3;o relacionados a v&#xe1;rios aspectos: doen&#xe7;as, prescri&#xe7;&#xf5;es, drogas, procedimentos, dispositivos, faturamento (pedidos), genoma, entre outros." ID="ID_714003058" CREATED="1544478649991" MODIFIED="1544478698890"/>
+<node TEXT="Os dados relativos a estes cuidados ficam espalhados nos diversos bancos de dados das in&#xfa;meras institui&#xe7;&#xf5;es de sa&#xfa;de por onde o indiv&#xed;duo &#xe9; atendido. Significa dizer que a busca por informa&#xe7;&#xf5;es pode ser atendida por uma variedade de recursos dispon&#xed;veis, que armazenam dados sobre o mesmo dom&#xed;nio, mas possuem caracter&#xed;sticas diferentes. Portanto, a necessidade de integra&#xe7;&#xe3;o e an&#xe1;lise de dados dessas fontes torna-se mais evidente (Ziegler and Dittrich, 2007)." ID="ID_1041351980" CREATED="1544478788557" MODIFIED="1544478841326"/>
+<node TEXT="Diante da diversidade, descentralidade, e do volume dos dados de sa&#xfa;de, para analis&#xe1;-los e integr&#xe1;-los eficientemente, &#xe9; necess&#xe1;rio o uso de tecnologias que permitam a colabora&#xe7;&#xe3;o entre computadores e humanos na Web. As ferramentas da Web Sem&#xe2;ntica permitem explicitar declara&#xe7;&#xf5;es de conhecimento embutidas nos dados. Portanto, tornar esses dados pass&#xed;veis de serem lidos/compreendidos por m&#xe1;quinas (machine-readable) &#xe9; um passo importante para integra-los." ID="ID_1169976036" CREATED="1544478886230" MODIFIED="1544478890084"/>
+<node TEXT="Tim Berners-Lee et al (2000) prop&#xf4;s o conceito de Web Sem&#xe2;ntica no seu livro Weaving the Web - The Original Design and Ultimate Destiny of the World Wide Web by Its Inventor. Incentivando a colocar os dados na web de uma forma que as m&#xe1;quinas pudessem entender." ID="ID_1817019385" CREATED="1544478987709" MODIFIED="1544478990251"/>
+<node TEXT="A representa&#xe7;&#xe3;o expl&#xed;cita da sem&#xe2;ntica dos dados, aliada a teoria dos dom&#xed;nios (ontologias), possibilita um novo quantitativo de servi&#xe7;os oferecidos pela Web, entre eles, agentes inteligentes, corretores e filtros de informa&#xe7;&#xf5;es. (Decker, 2000)" ID="ID_729908896" CREATED="1544478991221" MODIFIED="1544479044632"/>
+<node TEXT="Para tornar a Web de Dados uma realidade, &#xe9; preciso que uma grande quantidade de dados esteja descrita na web - por meio de metadados - num padr&#xe3;o leg&#xed;vel por m&#xe1;quinas. Mais do que isso, as rela&#xe7;&#xf5;es entre esses dados tamb&#xe9;m precisam estar dispon&#xed;veis. Esses conjuntos de dados relacionados na Web tamb&#xe9;m s&#xe3;o chamados de Linked Data (Dados Conectados)." ID="ID_1342159583" CREATED="1544479106129" MODIFIED="1544479108385"/>
+<node TEXT="O Linked Data comp&#xf5;e a base da Web Sem&#xe2;ntica e almeja criar um banco de dados global que permita &#xe0;s aplica&#xe7;&#xf5;es raciocinar sobre esses dados. O crescimento deste banco de dados costuma ser demonstrado numa nuvem, chamada LOD - Linked Open Data, cujo n&#xf3; central &#xe9; a DBpedia que cont&#xe9;m dados extra&#xed;dos das caixas de informa&#xe7;&#xf5;es da Wikipedia." ID="ID_931872609" CREATED="1544479163422" MODIFIED="1544479165640"/>
+<node TEXT="Existe uma divis&#xe3;o espec&#xed;fica na LOD para conjuntos de dados relativos &#xe0;s Ci&#xea;ncias da Vida, composta por ontologias que representam, por exemplo: CID-10, CIAP2, SNOMED, RadLex, NCI Thesaurus, RxNORM, MESH, entre outros." ID="ID_1819468396" CREATED="1544479189663" MODIFIED="1544479191644"/>
 </node>
 <node TEXT="Justificativa" ID="ID_996945178" CREATED="1543687400815" MODIFIED="1543876757145"><richcontent TYPE="NOTE">
 
@@ -119,6 +129,10 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Para integrar dados de sa&#xfa;de, eles precisam compartilhar algumas dimens&#xf5;es. Para cada contato assistencial, s&#xe3;o registrados o paciente atendido, o profissional de sa&#xfa;de que o atendeu, o estabelecimento de sa&#xfa;de, o diagn&#xf3;stico e os procedimentos realizados. No Brasil, o Cart&#xe3;o Nacional de Sa&#xfa;de (CNS) identifica tanto o paciente quanto o profissional de sa&#xfa;de, os estabelecimentos de sa&#xfa;de possuem o n&#xfa;mero do Cadastro Nacional de Estabelecimentos de Sa&#xfa;de (CNES). A vers&#xe3;o 10 da Classifica&#xe7;&#xe3;o Internacional de Doen&#xe7;as (CID-10) representa os diagn&#xf3;sticos." ID="ID_323266811" CREATED="1544481337614" MODIFIED="1544481340233"/>
+<node TEXT="Os procedimentos realizados s&#xe3;o identificados pela Tabela SUS, quando o atendimento &#xe9; financiado pelo Sistema &#xda;nico de Sa&#xfa;de (SUS), ou pela Tabela TUSS quando por plano de sa&#xfa;de ou particular." ID="ID_460438230" CREATED="1544481363258" MODIFIED="1544481365442"/>
+<node TEXT="Existe uma necessidade urgente de integrar os dados de sa&#xfa;de do paciente para garantir a continuidade do cuidado, reduzir custos com a repeti&#xe7;&#xe3;o de exames, evitar procedimentos desnecess&#xe1;rios e acelerar o diagn&#xf3;stico e o tratamento." ID="ID_648073563" CREATED="1544481419595" MODIFIED="1544481423474"/>
+<node TEXT="As tecnologias da Web Sem&#xe2;ntica fornecem uma maneira promissora de fazer isso. Capturando representa&#xe7;&#xf5;es ricas de dados de sa&#xfa;de duma forma a permitir o compartilhamento e o reuso.&#xa;Por outro lado, dados de sa&#xfa;de podem ser complexos e heterog&#xea;neos, como por exemplo, imagens radiol&#xf3;gicas, anota&#xe7;&#xf5;es de profissionais de sa&#xfa;de, genoma, entre outros." ID="ID_1275822561" CREATED="1544481424155" MODIFIED="1544481449629"/>
 </node>
 <node TEXT="Objetivos" ID="ID_122329392" CREATED="1543687407265" MODIFIED="1543689594452"><richcontent TYPE="NOTE">
 
@@ -282,7 +296,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="SOAP 1.1" ID="ID_1100643121" CREATED="1543690071592" MODIFIED="1543690073680"/>
 <node TEXT="WS-Security" ID="ID_662967565" CREATED="1543690090812" MODIFIED="1543690092561"/>
@@ -306,6 +319,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="O Clinical Document Architecture (CDA) &#xe9; um padr&#xe3;o de representa&#xe7;&#xe3;o que especifica a estrutura e a sem&#xe2;ntica de documentos cl&#xed;nicos, baseado em XML, permitindo a compreens&#xe3;o dos mesmos tanto por humanos quanto por m&#xe1;quinas. Al&#xe9;m de permitir a utiliza&#xe7;&#xe3;o de ontologias associadas a estes documentos.&#xa;Os documentos criados em CDA podem conter textos, imagens, sons e outros conte&#xfa;dos multim&#xed;dia (especificados no Reference Information Model - RIM). Apesar de fazer parte da vers&#xe3;o 3.0 do HL7, suas mensagens n&#xe3;o precisam ser compartilhadas nesta mesma vers&#xe3;o." ID="ID_1644976384" CREATED="1544484856774" MODIFIED="1544484860651"/>
 </node>
 <node TEXT="openEHR" ID="ID_678926937" CREATED="1543687950904" MODIFIED="1543690483346" MOVED="1543690147775"><richcontent TYPE="NOTE">
 
@@ -326,6 +340,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="O openEHR &#xe9; uma arquitetura para criar Registros Eletr&#xf4;nicos em Sa&#xfa;de (RES) interoper&#xe1;veis e independentes da tecnologia utilizada para sua captura. Sua principal caracter&#xed;stica &#xe9; separar o dom&#xed;nio cl&#xed;nico (onde est&#xe3;o os profissionais de sa&#xfa;de) do dom&#xed;nio t&#xe9;cnico (desenvolvedores de software). O openEHR tem como base modelos de conhecimento cl&#xed;nicos livres - chamados de arqu&#xe9;tipos &#x2013; que permitem a cria&#xe7;&#xe3;o desde sistemas de informa&#xe7;&#xe3;o em sa&#xfa;de simples, tais como aplicativos para tablets, at&#xe9; complexos sistemas de gest&#xe3;o hospitalar (openEHR, 2014).&#xa;No contexto cl&#xed;nico tais conhecimentos s&#xe3;o organizados e representados na forma de arqu&#xe9;tipos e templates (agrupamentos de arqu&#xe9;tipos). Para modelar e representar estes conhecimentos, os profissionais de sa&#xfa;de fazem uso de uma plataforma com ferramentas de modelagem e formalizam em artefatos process&#xe1;veis por m&#xe1;quinas e depositados em reposit&#xf3;rios chamados de Clinical Knowledge Management - CKM.&#xa;O openEHR pode ser associado a diversas terminologias, tais como a Classifica&#xe7;&#xe3;o Internacional de Doen&#xe7;as (CID-10), a ontologia SNOMED-CT, al&#xe9;m de terminologias internas na forma de tabelas de dom&#xed;nio." ID="ID_1160740492" CREATED="1544484873163" MODIFIED="1544484876142"/>
 </node>
 <node TEXT="ISO 13.606" ID="ID_1729250343" CREATED="1543687958994" MODIFIED="1543690655432" MOVED="1543690147789"><richcontent TYPE="NOTE">
 
@@ -346,6 +361,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Segundo a ISO, o objetivo do padr&#xe3;o ISO 13606 &#xe9; definir a arquitetura da informa&#xe7;&#xe3;o para comunica&#xe7;&#xe3;o de Registros Eletr&#xf4;nicos em Sa&#xfa;de (RES). Permitindo a interoperabilidade entre sistemas e componentes atrav&#xe9;s de mensagens eletr&#xf4;nicas ou objetos distribu&#xed;dos, preservando o significado e refletindo a confidencialidade dos dados (ISO, 2008).&#xa;O modelo de informa&#xe7;&#xe3;o proposto pelo ISO 13606 &#xe9; chamado de EHR Extract ou Extrato RES, conforme apresentado na Figura 2, e pode ser utilizado para definir mensagens, documentos XML ou Schema, ou interfaces de objetos. Utiliza uma abordagem dual que destaca um modelo de refer&#xea;ncia, usado para representar as propriedades gen&#xe9;ricas dos registros de informa&#xe7;&#xe3;o em sa&#xfa;de, e os arqu&#xe9;tipos, que s&#xe3;o metadados usados para definir padr&#xf5;es para especificar conhecimento cl&#xed;nico (ISO, 2008).&#xa;A informa&#xe7;&#xe3;o em um Registro Eletr&#xf4;nico de Sa&#xfa;de &#xe9; predominantemente hier&#xe1;rquica. Os registros cl&#xed;nicos podem ser estruturas simples ou complexas, cujas informa&#xe7;&#xf5;es s&#xe3;o organizadas sob etiquetas e comp&#xf5;em documentos, tais como: anamneses, evolu&#xe7;&#xf5;es, relat&#xf3;rios m&#xe9;dicos, etc.. Documentos estes que, por sua vez, s&#xe3;o arquivados em pastas, sendo que cada paciente pode possuir mais de uma pasta (por exemplo: m&#xe9;dica, enfermagem, administrativa, cardiologia etc.)." ID="ID_1520401808" CREATED="1544484902303" MODIFIED="1544484905244"/>
 </node>
 <node TEXT="ISBT 128" ID="ID_1088607913" CREATED="1543690189417" MODIFIED="1544116931194" MOVED="1544115958839"><richcontent TYPE="NOTE">
 
@@ -359,8 +375,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="O ISBT 128 &#xe9; um padr&#xe3;o internacional para a identifica&#xe7;&#xe3;o, rotulagem e troca de informa&#xe7;&#xf5;es, entre pa&#xed;ses e sistemas de cuidados de sa&#xfa;de, a cerca de produtos m&#xe9;dicos de origem humana (sangue, c&#xe9;lulas, tecidos, leite humano e produtos de &#xf3;rg&#xe3;os)." ID="ID_997999608" CREATED="1544484917430" MODIFIED="1544484919109"/>
 </node>
 </node>
 <node TEXT="Mensagens" ID="ID_810426579" CREATED="1543687789572" MODIFIED="1543694319568">
@@ -383,6 +399,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A organiza&#xe7;&#xe3;o sem fins lucrativos Health Level Seven (HL7), fundada em 1987 nos Estados Unidos, tem como objetivo a cria&#xe7;&#xe3;o e manuten&#xe7;&#xe3;o de normas e padr&#xf5;es de integra&#xe7;&#xe3;o para a &#xe1;rea da sa&#xfa;de. Credenciada pela American National Standards Institute (ANSI) desde 1994, possui como membros m&#xe9;dicos, t&#xe9;cnicos, engenheiros de sistemas de informa&#xe7;&#xe3;o, fabricantes de equipamentos e organismos governamentais. Seu nome remete ao modelo de sete camadas do padr&#xe3;o OSI da ISO (HL7, 2014).&#xa;A primeira vers&#xe3;o do padr&#xe3;o HL7 (vers&#xe3;o 1.0) foi lan&#xe7;ada em 1987 e representava um layout de mensagens entre duas ou mais aplica&#xe7;&#xf5;es, disparadas atrav&#xe9;s de um evento particular. A vers&#xe3;o 2.2, a primeira reconhecida pela ANSI, foi lan&#xe7;ada em 1994 e permitia mensagens vari&#xe1;veis separadas pelo caractere &#x201c;|&#x201d; (pipe) e campos agrupados em segmentos, que podiam ser solicitadas ou n&#xe3;o solicitadas; esta flexibilidade das mensagens proporcionou, ao mesmo tempo, maior facilidade na cria&#xe7;&#xe3;o de mensagens e aumento na complexidade no desenvolvimento de aplica&#xe7;&#xf5;es de software (HL7, 2014).&#xa;A vers&#xe3;o 3.0 trouxe uma mudan&#xe7;a de paradigma, buscando eliminar limita&#xe7;&#xf5;es das vers&#xf5;es anteriores como: implementa&#xe7;&#xe3;o cara e demorada, excesso de liberdade na implementa&#xe7;&#xe3;o e pouco suporte as tecnologias (XML, orienta&#xe7;&#xe3;o a objetos e seguran&#xe7;a). Baseada no Reference Information Model (RIM), esta vers&#xe3;o tem como foco a interoperabilidade sem&#xe2;ntica ao fornecer um vocabul&#xe1;rio padr&#xe3;o e mensagens estruturadas em XML." ID="ID_1995771647" CREATED="1544485005646" MODIFIED="1544485007882"/>
 </node>
 <node TEXT="DICOM" ID="ID_1149570123" CREATED="1543690719833" MODIFIED="1544117528154"><richcontent TYPE="NOTE">
 
@@ -396,8 +413,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="O padr&#xe3;o DICOM (Digital Imaging and Communications in Medicine), mantido pelo National Electrical Manufacturers Association (NEMA), inclui um formato de arquivo e um protocolo de comunica&#xe7;&#xe3;o para manipula&#xe7;&#xe3;o, armazenamento, impress&#xe3;o e transmiss&#xe3;o de imagens m&#xe9;dicas. Serve de base para o sistemas PACS (Picture Archiving and Communication System)." ID="ID_436749073" CREATED="1544485085908" MODIFIED="1544485088121"/>
 </node>
 <node TEXT="TISS" ID="ID_736079347" CREATED="1543687995671" MODIFIED="1543690788004"><richcontent TYPE="NOTE">
 
@@ -412,6 +429,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="O padr&#xe3;o para a Troca de Informa&#xe7;&#xf5;es de Sa&#xfa;de Suplementar (TISS) obrigat&#xf3;rio para as trocas eletr&#xf4;nicas de dados entre os agentes da sa&#xfa;de suplementar (planos de sa&#xfa;de) preconiza a interoperabilidade entre sistemas de informa&#xe7;&#xe3;o da Agencia Nacional de Sa&#xfa;de (ANS), operadoras de planos de sa&#xfa;de e prestadores de servi&#xe7;o assistencial. O padr&#xe3;o TISS est&#xe1; organizado em cinco componentes: organizacional, conte&#xfa;do e estrutura, representa&#xe7;&#xe3;o de conceitos em sa&#xfa;de, seguran&#xe7;a e privacidade, e comunica&#xe7;&#xe3;o. Na representa&#xe7;&#xe3;o de conceitos em sa&#xfa;de utiliza-se a Terminologia Unificada de Sa&#xfa;de Suplementar (TUSS) para identificar os eventos e itens assistenciais. A comunica&#xe7;&#xe3;o utiliza a linguagem XML/Schema para a troca de mensagens (BRASIL, 2009)." ID="ID_794597494" CREATED="1544485102508" MODIFIED="1544485105111"/>
 </node>
 </node>
 <node TEXT="Perfis e Identifica&#xe7;&#xe3;o" ID="ID_1951500642" CREATED="1543687792157" MODIFIED="1544119275599">
@@ -430,8 +448,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="O Integrating the Healthcare Enterprise (IHE) tem como objetivo incentivar o uso dos padr&#xf5;es j&#xe1; existentes, estabelecendo perfis para a implementa&#xe7;&#xe3;o desses padr&#xf5;es. Um dos grandes desafios da integra&#xe7;&#xe3;o de dados de sa&#xfa;de &#xe9; a identifica&#xe7;&#xe3;o &#xfa;nica de pacientes. Dentre os perfis de integra&#xe7;&#xe3;o do IHE, temos o PIX (Patient Identifier Cross-Referencing) respons&#xe1;vel pela gera&#xe7;&#xe3;o do Master Patient Index (MPI) de um identificador un&#xed;voco a partir de um conjunto m&#xed;nimo de atributos de identifica&#xe7;&#xe3;o e dados demogr&#xe1;ficos do paciente." ID="ID_988916841" CREATED="1544485120706" MODIFIED="1544485123261"/>
 </node>
 </node>
 <node TEXT="Terminologias" ID="ID_1616876848" CREATED="1543687803830" MODIFIED="1543687811199">
@@ -454,6 +472,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A Systematized Nomenclature of Medicine (SNOMED) &#xe9; uma nomenclatura multiaxial para indexar registros m&#xe9;dicos, criada a partir da Systematized Nomenclature of Pathology (SNOP), inclui sinais e sintomas, diagn&#xf3;sticos e procedimentos. O que permite uma completa integra&#xe7;&#xe3;o de todas as informa&#xe7;&#xf5;es m&#xe9;dicas numa estrutura &#xfa;nica.&#xa;Criada em 1965, a SNOP possu&#xed;a apenas termos da &#xe1;rea de patologia, em 1976 recebeu a denomina&#xe7;&#xe3;o SNOMED e contava com aproximadamente 44.587 termos m&#xe9;dicos. Na sua primeira vers&#xe3;o internacional (vers&#xe3;o 1.0), lan&#xe7;ada em 1993, j&#xe1; possu&#xed;a mais de 130 mil termos, passando a 156.602 termos na vers&#xe3;o 3.5; em 1998 foi lan&#xe7;ada a SNOMED Reference Terminology (RT). Seus termos s&#xe3;o distribu&#xed;dos em doze eixos: topogr&#xe1;fico; anat&#xf4;mico; morfol&#xf3;gico; diagn&#xf3;stico; procedimentos; funcional; organismos vivos; qu&#xed;mico; agentes f&#xed;sicos, a&#xe7;&#xf5;es e for&#xe7;as; contexto social; ocupa&#xe7;&#xf5;es; e geral.&#xa;A SNOMED pode ser utilizada em softwares para a coleta de dados cl&#xed;nicos, na agrega&#xe7;&#xe3;o e interc&#xe2;mbio de dados, para recupera&#xe7;&#xe3;o de informa&#xe7;&#xf5;es e liga&#xe7;&#xf5;es &#xe0; bases de conhecimento cl&#xed;nico.  Fornece um padr&#xe3;o para a informa&#xe7;&#xe3;o cl&#xed;nica atrav&#xe9;s de conceitos, hierarquias e relacionamentos que servem de base para a aplica&#xe7;&#xe3;o de an&#xe1;lises, pesquisas de resultados, avalia&#xe7;&#xe3;o do atendimento e proje&#xe7;&#xe3;o de diretrizes de tratamento. A utiliza&#xe7;&#xe3;o da SNOMED tr&#xe1;s benef&#xed;cios n&#xe3;o s&#xf3; para m&#xe9;dicos, mas tamb&#xe9;m para pacientes, administradores e desenvolvedores de software; j&#xe1; que propicia uma plataforma &#xfa;nica para a representa&#xe7;&#xe3;o de termos e conceitos." ID="ID_122809060" CREATED="1544481843813" MODIFIED="1544481848635"/>
 </node>
 <node TEXT="LOINC" ID="ID_1226058829" CREATED="1543688053773" MODIFIED="1543690912850"><richcontent TYPE="NOTE">
 
@@ -468,6 +487,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="O Logical Observation Identifier, Names and Codes (LOINC) &#xe9; uma codifica&#xe7;&#xe3;o utilizada para observa&#xe7;&#xf5;es cl&#xed;nicas e laboratoriais que pode ser utilizada sem a necessidade de licen&#xe7;as de uso. A codifica&#xe7;&#xe3;o LOINC pode ser embutida em mensagens escritas no padr&#xe3;o HL7 com objetivo de facilitar a troca de dados e a an&#xe1;lise de resultados de exames, unificando informa&#xe7;&#xf5;es cl&#xed;nicas e laboratoriais. Como exemplo, o registro da press&#xe3;o arterial sist&#xf3;lica e diast&#xf3;lica pode ser representado utilizando a linguagem de marca&#xe7;&#xe3;o XML dentro de uma estrutura de documento cl&#xed;nico definida pelo padr&#xe3;o HL7, conforme apresentado no quadro 4." ID="ID_475944145" CREATED="1544481898092" MODIFIED="1544481901426"/>
 </node>
 <node TEXT="CID-10" ID="ID_563713471" CREATED="1543688055820" MODIFIED="1543690936793"><richcontent TYPE="NOTE">
 
@@ -482,6 +502,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A Classifica&#xe7;&#xe3;o Internacional de Doen&#xe7;as (CID), criada pela Organiza&#xe7;&#xe3;o Mundial de Sa&#xfa;de (OMS), &#xe9; uma das mais importantes terminologias m&#xe9;dicas utilizada no mundo. Utilizada para classificar dados de morbimortalidade, indexar registros de sa&#xfa;de por doen&#xe7;as e procedimentos, e armazenamento de dados para posteriores resgates para pesquisa. Criada em 1880, baseada na London Bills of Mortality, mantida pela Organiza&#xe7;&#xe3;o Mundial de Sa&#xfa;de (OMS), atualmente na sua 10&#xaa; edi&#xe7;&#xe3;o, por esta raz&#xe3;o chamada de CID-10. A vers&#xe3;o 11 da CID est&#xe1; prevista para o ano de 2015. Muito utilizada para fins estat&#xed;sticos e de faturamento, est&#xe1; dividida em 22 cap&#xed;tulos que representam classes de doen&#xe7;as e problemas relacionados, cada doen&#xe7;a possui um c&#xf3;digo e est&#xe1; associada a uma &#xfa;nica categoria. Estes cap&#xed;tulos totalizam 2.468 diagn&#xf3;sticos gerais, cada categoria de diagn&#xf3;sticos gerais &#xe9; dividida em diagn&#xf3;sticos mais espec&#xed;ficos, 10.000 aproximadamente." ID="ID_448456254" CREATED="1544481923808" MODIFIED="1544481926703"/>
 </node>
 <node TEXT="CIAP-2" ID="ID_1598478161" CREATED="1543690958579" MODIFIED="1544120286670"><richcontent TYPE="NOTE">
 
@@ -495,8 +516,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="A Classifica&#xe7;&#xe3;o Internacional de Aten&#xe7;&#xe3;o Prim&#xe1;ria (CIAP-2) ou ICPC-2 (International Classification of Primary Care) foi desenvolvida pela Organiza&#xe7;&#xe3;o Mundial dos M&#xe9;dicos de Fam&#xed;lia (WONCA) a partir de um trabalho da Organiza&#xe7;&#xe3;o Mundial de Sa&#xfa;de (OMS) cujo objetivo era classificar os motivos de consulta em aten&#xe7;&#xe3;o prim&#xe1;ria. &#xc9; mais adequado para a aten&#xe7;&#xe3;o prim&#xe1;ria do que a CID-10, por&#xe9;m n&#xe3;o a substitui. Normalmente, est&#xe1; atrelada &#xe0; sistematiza&#xe7;&#xe3;o de atendimento SOAP (Subjetivo, Objetivo, Avalia&#xe7;&#xe3;o e Plano)." ID="ID_345311492" CREATED="1544481951425" MODIFIED="1544481964948"/>
 </node>
 <node TEXT="TUSS" ID="ID_1582081127" CREATED="1543688060568" MODIFIED="1544121167167"><richcontent TYPE="NOTE">
 
@@ -513,8 +534,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="A Terminologia Unificada da Sa&#xfa;de Suplementar (TUSS) foi criada em conjunto pela Ag&#xea;ncia Nacional de Sa&#xfa;de Suplementar (ANS), Associa&#xe7;&#xe3;o M&#xe9;dica Brasileira (AMB), e o Comit&#xea; de Padroniza&#xe7;&#xe3;o das Informa&#xe7;&#xf5;es em Sa&#xfa;de Suplementar (COPISS). Baseada na Classifica&#xe7;&#xe3;o Brasileira Hierarquizada de Procedimentos M&#xe9;dicos (CBHPM) t&#xea;m como objetivo adotar uma terminologia comum a todos os atores do mercado nacional de sa&#xfa;de suplementar (hospitais, m&#xe9;dicos, laborat&#xf3;rios, etc.). Entendendo por sa&#xfa;de suplementar todo o atendimento privado de sa&#xfa;de, atrav&#xe9;s de um conv&#xea;nio de plano de sa&#xfa;de, tendo como principais atores o Minist&#xe9;rio da Sa&#xfa;de, a ANS, a ANVISA, as operadores de planos de sa&#xfa;de, as seguradoras e os prestadores de servi&#xe7;o de assist&#xea;ncia &#xe0; sa&#xfa;de. Al&#xe9;m, obviamente, do principal interessado que &#xe9; o paciente. A TUSS organiza os procedimentos m&#xe9;dicos por categorias, atribuindo-lhes um c&#xf3;digo e uma descri&#xe7;&#xe3;o padronizada (BRASIL, 2009).&#xa;http://www.ans.gov.br/prestadores/tiss-troca-de-informacao-de-saude-suplementar" ID="ID_1491075301" CREATED="1544481991629" MODIFIED="1544481995227"/>
 </node>
 <node TEXT="Tabela SUS (Sigtap)" ID="ID_1922347183" CREATED="1543692066082" MODIFIED="1544121226371"><richcontent TYPE="NOTE">
 
@@ -537,8 +558,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="Em vigor desde janeiro de 2008, a Tabela de Procedimentos, Medicamentos, &#xd3;rteses, Pr&#xf3;teses e Materiais Especiais (OPM), conhecida como Tabela SUS, tr&#xe1;s todos os procedimentos que podem ser realizados no &#xe2;mbito do SUS (ambulatorial e hospitalar). Assim como medicamentos e OPM dispensados durante os procedimentos. Os procedimentos s&#xe3;o identificados por um c&#xf3;digo composto por tr&#xea;s d&#xed;gitos mais um d&#xed;gito verificador e organizados em quatro n&#xed;veis de agrega&#xe7;&#xe3;o: grupo, subgrupo e forma de organiza&#xe7;&#xe3;o.&#xa;Para gerenciar os mais de cinco mil itens da tabela, existe o Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e OPM (SIGTAP). Nele, est&#xe3;o contidas as regras de valida&#xe7;&#xe3;o para cada procedimento, por exemplo, quais CBO est&#xe3;o autorizados a realizar o procedimento, os CID permitidos, a idade m&#xed;nima e m&#xe1;xima, o sexo, entre outras.&#xa;http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp" ID="ID_791317457" CREATED="1544482293181" MODIFIED="1544482296456"/>
 </node>
 <node TEXT="CBHPM" ID="ID_551440016" CREATED="1543692093295" MODIFIED="1544121130923"><richcontent TYPE="NOTE">
 
@@ -555,8 +576,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="A Classifica&#xe7;&#xe3;o Brasileira Hierarquizada de Procedimentos M&#xe9;dicos (CBHPM), criada pela Associa&#xe7;&#xe3;o M&#xe9;dica Brasileira (AMB), mant&#xe9;m compatibilidade com o padr&#xe3;o TISS e busca estabelecer um padr&#xe3;o m&#xed;nimo e &#xe9;tico para a remunera&#xe7;&#xe3;o de procedimentos m&#xe9;dicos. &#xc9; utilizada para atendimentos particulares, isto &#xe9;, aqueles pagos com recursos do pr&#xf3;prio paciente ou de familiares.&#xa;https://amb.org.br/cbhpm/" ID="ID_1082642040" CREATED="1544482317143" MODIFIED="1544482322981"/>
 </node>
 <node TEXT="RxNORM" ID="ID_569225810" CREATED="1543692104367" MODIFIED="1543692119370"/>
 <node TEXT="RadLex" ID="ID_1893119482" CREATED="1543692119592" MODIFIED="1543692122978"/>
@@ -665,6 +686,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Cole&#xe7;&#xf5;es de informa&#xe7;&#xf5;es e conjuntos de regras de infer&#xea;ncia formam a base da Representa&#xe7;&#xe3;o de Conhecimento. Para a Web Sem&#xe2;ntica funcionar, os computadores devem ter acesso a elas para conduzir racioc&#xed;nios de forma aut&#xf4;noma.&#xa;O elemento central da Representa&#xe7;&#xe3;o do Conhecimento &#xe9; a utiliza&#xe7;&#xe3;o das mesmas defini&#xe7;&#xf5;es para os conceitos por todos os envolvidos: pessoas e m&#xe1;quinas; sendo que um termo serve para referenciar um conceito espec&#xed;fico (FEITOSA, 2006, p.73).&#xa;O desafio da Web Sem&#xe2;ntica &#xe9; fornecer uma linguagem para expressar dados e regras para raciocinar sobre estes dados." ID="ID_1375787071" CREATED="1544482371329" MODIFIED="1544482374459"/>
 </node>
 <node TEXT="Metadados" ID="ID_503938662" CREATED="1543688147394" MODIFIED="1543693342177"><richcontent TYPE="NOTE">
 
@@ -697,6 +719,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A defini&#xe7;&#xe3;o mais usual para metadados &#xe9; que &quot;s&#xe3;o dados sobre outros dados&quot;. Contudo, diante da import&#xe2;ncia dos mesmos para a Web Sem&#xe2;ntica, a defini&#xe7;&#xe3;o da National Information Standards Organization (NISO) expande esta defini&#xe7;&#xe3;o para uma estrutura que descreve, explica e localiza recursos digitais, facilitando sua recupera&#xe7;&#xe3;o, uso e gerenciamento.&#xa;Metadados, segundo Alves (2010), s&#xe3;o descritos como:&#xa;[...] atributos que representam uma entidade (objeto do mundo real) em um sistema de informa&#xe7;&#xe3;o. Em outras palavras, s&#xe3;o elementos descritivos ou atributos referenciais codificados que representam caracter&#xed;sticas pr&#xf3;prias ou atribu&#xed;das &#xe0;s entidades; s&#xe3;o ainda dados que descrevem outros dados em um sistema de informa&#xe7;&#xe3;o, com o intuito de identificar de forma &#xfa;nica uma entidade (recurso informacional) para posterior recupera&#xe7;&#xe3;o (ALVES, 2010, p.47).&#xa;A primeira iniciativa para embutir metadados no c&#xf3;digo fonte de uma p&#xe1;gina Web, tais como: titulo, autor, palavras-chave, copyright, idioma, etc.; foi atrav&#xe9;s do elemento &lt;meta&gt; da linguagem HTML. Muito utilizada para facilitar a indexa&#xe7;&#xe3;o de p&#xe1;ginas web pelos mecanismos de busca.&#xa;Pode-se tamb&#xe9;m embutir metadados em p&#xe1;gina Web por meio da utiliza&#xe7;&#xe3;o de Microformatos e Microdados. Ambos, visam enriquecer semanticamente os documentos publicados na Web, permitindo que m&#xe1;quinas possam, minimamente, entender as informa&#xe7;&#xf5;es da p&#xe1;gina dentro do contexto sem&#xe2;ntico.&#xa;Microformatos s&#xe3;o cole&#xe7;&#xf5;es de tags para embutir metadados em HTML, pequenos e livres, d&#xe3;o mais significado as p&#xe1;ginas web, por&#xe9;m os metadados s&#xe3;o mais r&#xed;gidos e sens&#xed;veis. O microformato RDFa permite a inclus&#xe3;o de metadados baseados no RDF tanto em documentos XHTML quanto em XML. O Embeddable RDF (eRDF), apesar de n&#xe3;o ser uma recomenda&#xe7;&#xe3;o do W3C, extrai informa&#xe7;&#xe3;o utilizando um analisador RDF, mas somente em documentos HTML. O Gleaning Resource Description from Dialects of Languages (GRDDL), assim como o RDFa, tamb&#xe9;m &#xe9; uma recomenda&#xe7;&#xe3;o do W3C, e utiliza scripts de transforma&#xe7;&#xe3;o XSLT para extrair RDF de XHTML e XML. As especifica&#xe7;&#xf5;es hCard (contato) e hCalendar (evento) s&#xe3;o exemplos de microformatos.&#xa;Microdados permitem marca&#xe7;&#xf5;es sem&#xe2;nticas, s&#xe3;o atributos colocados nas tags HTML utilizando elementos de um vocabul&#xe1;rio Schema.org. O Google reconhece microdados." ID="ID_683191507" CREATED="1544482391622" MODIFIED="1544482393761"/>
 </node>
 <node TEXT="Vocabul&#xe1;rios" ID="ID_21959246" CREATED="1543688154615" MODIFIED="1543693391024"><richcontent TYPE="NOTE">
 
@@ -741,6 +764,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="No famoso artigo THE SEMANTIC WEB de Tim, James e Ora (2001), alguns termos s&#xe3;o destacados e os autores afirmam que a sem&#xe2;ntica e/ou significado, foram definidos previamente no contexto da Web Sem&#xe2;ntica. Esta defini&#xe7;&#xe3;o &#xe9; feita pela especifica&#xe7;&#xe3;o de um Vocabul&#xe1;rio.&#xa;Os autores retomam a discuss&#xe3;o sobre a real import&#xe2;ncia do entendimento do significado dos termos afirmando que duas bases de dados podem utilizar diferentes identificadores para o mesmo conceito, tal como cep. A utiliza&#xe7;&#xe3;o de vocabul&#xe1;rios comuns resolve parte deste problema.&#xa;Os vocabul&#xe1;rios s&#xe3;o usados para descrever dados, representar conceitos e identificar um conjunto de dados. Um vocabul&#xe1;rio pode ser entendido como um conjunto de termos que descrevem dados (predicados, atributos ou propriedades), aumentando a expressividade e reduzindo a ambig&#xfc;idade (FREITAS;SCHULZ, 2009).&#xa;Alguns dos vocabul&#xe1;rios mais utilizados:&#xa;- Friends of Friends (FOAF)&#xa;- Dublin Core (DC)&#xa;- GeoNames (GN)&#xa;- Good Relations (GR)&#xa;- WordNet&#xa;- Food&#xa;- Schema.org" ID="ID_244019693" CREATED="1544482432681" MODIFIED="1544482435008"/>
 </node>
 <node TEXT="Sem&#xe2;ntica dos Dados" ID="ID_599143932" CREATED="1543688161013" MODIFIED="1543693446132"><richcontent TYPE="NOTE">
 
@@ -767,6 +791,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A maneira mais tradicional de se estruturar os dados &#xe9; organiz&#xe1;-los em tabelas, a exemplo das planilhas em Excel e a tag &lt;table&gt; em HTML. Tabelas facilitam mostrar, ordenar, imprimir e editar os dados. A sem&#xe2;ntica dos dados &#xe9; garantida pelos r&#xf3;tulos colocados no topo de suas colunas e in&#xed;cio de suas linhas, para uma pessoa &#xe9; relativamente f&#xe1;cil entender o que representa determinado dado analisando estes identificadores. Contudo, tabelas apresentam dificuldades para representar valores m&#xfa;ltiplos e geram duplicidades quando da jun&#xe7;&#xe3;o de v&#xe1;rias delas (SEGARAN, 2009).&#xa;Segaran (2009) aponta que nos Bancos de Dados Relacionais, como o Oracle e o MySQL &#xe9; muito r&#xe1;pido e f&#xe1;cil unir tabelas, utilizando atributos comuns. O que permite criar sofisticadas consultas. A sem&#xe2;ntica fica a cargo dos esquemas de banco de dados, que definem entidades, relacionamentos e r&#xf3;tulos para os dados.&#xa;Entender o significado dos dados &#xe9; uma quest&#xe3;o de conhecer o esquema. Da mesma forma que os esquemas s&#xe3;o o ponto forte dos bancos relacionais, representam seu &quot;calcanhar de Aquiles&quot; no que tange a integra&#xe7;&#xe3;o de dados, migra&#xe7;&#xe3;o e complexidades dos esquemas.&#xa;Segundo Tim Berners-Lee (2001), a propriedade essencial da Web &#xe9; a universalidade. Estruturar dados na forma de tabelas ou bancos relacionais, tr&#xe1;s in&#xfa;meras dificuldades para garantir tal propriedade. Para tanto, faz-se necess&#xe1;rio uma nova modelagem dos dados. Ali&#xe1;s, n&#xe3;o t&#xe3;o nova assim. Um modelo mais flex&#xed;vel, onde as rela&#xe7;&#xf5;es sejam descritas pelos pr&#xf3;prios dados, onde eles mesmos se auto-descrevam. Um modelo baseado em chave/valor, que seja a prova de futuro (SEGARAN, 2010, p.12-15).&#xa;Este modelo de dados sem&#xe2;ntico &#xe9; baseado em triplas, blocos de constru&#xe7;&#xe3;o fundamentais para a sem&#xe2;ntica, onde os dados s&#xe3;o estruturados em declara&#xe7;&#xf5;es do tipo: &lt;sujeito&gt; &lt;predicado&gt; &lt;objeto&gt;. Onde &lt;sujeito&gt; pode representar qualquer coisa do universo, &lt;predicado&gt; &#xe9; uma propriedade deste sujeito como nome ou email, e &lt;objeto&gt; pode ser um sujeito noutra tripla ou armazenar valores literais: caracteres e n&#xfa;meros (ISOTANI;BITTENCOURT, 2015)." ID="ID_452151986" CREATED="1544482488690" MODIFIED="1544482491707"/>
 </node>
 <node TEXT="Padr&#xf5;es Sem&#xe2;nticos" ID="ID_1933112632" CREATED="1543688176301" MODIFIED="1543693529965"><richcontent TYPE="NOTE">
 
@@ -802,6 +827,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Segundo Davies (2006), os padr&#xf5;es sem&#xe2;nticos est&#xe3;o baseados nos seguintes conceitos:&#xa;1. Resource Description Framework - RDF&#xa;2. Uniform Resource Indentifiers - URIs&#xa;3. SPARQL Protocol and RDF Query Language - SPARQL&#xa;O RDF &#xe9; um padr&#xe3;o para expressar grafos para permitir o compartilhamento de dados entre pessoas e, principalmente, entre m&#xe1;quinas. Recomendado pelo W3C, baseou-se no Meta Content Framework (MFC), proposto por Ramanathan Guha e Tim Bray em 1990 para descrever metadados e organizar a Web. Sua primeira vers&#xe3;o foi lan&#xe7;ada em 1990. Por ser uma recomenda&#xe7;&#xe3;o W3C, possui uma variedade de ferramentas e servi&#xe7;os dispon&#xed;veis (POLLOCK, 2010).&#xa;As declara&#xe7;&#xf5;es RDF seguem o mesmo modelo de triplas &lt;sujeito&gt; &lt;predicado&gt; &lt;objeto&gt; para descrever recursos, que podem representar qualquer coisa e todas as coisas.&#xa;Uma URI &#xe9; uma string que referencia de forma &#xfa;nica um recurso, que pode ser qualquer coisa, eletr&#xf4;nica ou n&#xe3;o. Por isso, &#xe9; chamada de URI reference ou URIref.&#xa;Diferente da URL (Uniform Resource Locator), que &#xe9; um subconjunto da URI e identifica onde a informa&#xe7;&#xe3;o digital pode ser recuperada, provendo uma identifica&#xe7;&#xe3;o &#xfa;nica; a URI apenas fornece uma chave forte un&#xed;voca para um recurso que se queira representar, seja ele uma pessoa, uma cidade, um livro, etc. (LAUFER, 2015)." ID="ID_1287517969" CREATED="1544482527901" MODIFIED="1544482539759"/>
 </node>
 <node TEXT="Ontologias" ID="ID_1215333843" CREATED="1543688194163" MODIFIED="1543693635346"><richcontent TYPE="NOTE">
 
@@ -852,6 +878,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Apontada como o terceiro componente b&#xe1;sico da Web Sem&#xe2;ntica, as Ontologias s&#xe3;o cole&#xe7;&#xf5;es de informa&#xe7;&#xf5;es. Origin&#xe1;rias da Metaf&#xed;sica, &#xe1;rea da Filosofia, que estuda a natureza do ser e a exist&#xea;ncia.&#xa;Na Computa&#xe7;&#xe3;o, uma ontologia &#xe9; um conjunto de conceitos e suas rela&#xe7;&#xf5;es que busca representar o entendimento de um dom&#xed;nio, atrav&#xe9;s de uma representa&#xe7;&#xe3;o formal compreens&#xed;vel tanto por humanos quanto por computadores.&#xa;Segundo Gruber (1993), ontologia &#xe9; uma especifica&#xe7;&#xe3;o expl&#xed;cita de um conceitualiza&#xe7;&#xe3;o. Entendendo por conceitualiza&#xe7;&#xe3;o o significado dos conceitos e as rela&#xe7;&#xf5;es entre eles, e especifica&#xe7;&#xe3;o como a representa&#xe7;&#xe3;o formal destes conceitos e rela&#xe7;&#xf5;es.&#xa;Para Guarino (2009), a modelagem de ontologias tem o objetivo de compartilhar e reutilizar o conhecimento em diferentes aplica&#xe7;&#xf5;es.&#xa;&#xa;Tipos de Ontologias&#xa;As ontologias s&#xe3;o constitu&#xed;das por um conjunto de conceitos essenciais sobre um dom&#xed;nio, representados pelos vocabul&#xe1;rios especializados; um corpo de conhecimento numa hierarquia de classes (C), um conjunto de rela&#xe7;&#xf5;es (R) e restri&#xe7;&#xf5;es sem&#xe2;nticas ou axiomas (A) (ISOTANI, 2015).&#xa;Que somados ao conjunto de inst&#xe2;ncias (I), completam o conjunto de elementos de uma ontologia O = {C, R, I, A}. Pode-se classificar as ontologias quanto ao porte em leves ou pesadas, e quanto a &#xe1;rea de atua&#xe7;&#xe3;o de dom&#xed;nio ou de tarefa.&#xa;As leves enfatizam as taxonomias para categorizar grandes volumes de dados, j&#xe1; as pesadas primam pelo rigor na defini&#xe7;&#xe3;o, organiza&#xe7;&#xe3;o e formaliza&#xe7;&#xe3;o dos conceitos e rela&#xe7;&#xf5;es - fundamental para o compartilhamento e reuso de bases de conhecimento.&#xa;As ontologias de dom&#xed;nio descrevem onde as tarefas s&#xe3;o executadas, representando o conhecimento sobre um assunto. As de tarefa detalham os processos e atividades necess&#xe1;rias para resolver um problema, isto &#xe9;, a habilidade de aplicar o conhecimento de um dom&#xed;nio; seus conceitos podem ser categorizados em: tasks roles, tasks actions e estados dos objetos/fluxos de informa&#xe7;&#xe3;o (MIZOGUCHI, 2004).&#xa;Existem duas maneiras de representar uma ontologia: formal e gr&#xe1;fica.&#xa;A formal &#xe9; consumida por computadores e utiliza linguagens para a representa&#xe7;&#xe3;o, tais como: l&#xf3;gica de predicados, l&#xf3;gica descritiva (frames) e descri&#xe7;&#xe3;o de ontologias. Desta &#xfa;ltima, as mais conhecidas (recomenda&#xe7;&#xf5;es do W3C) s&#xe3;o RDF/RDF-S e OWL.&#xa;A representa&#xe7;&#xe3;o gr&#xe1;fica, destinada a pessoas, utiliza formas como: grafos, UML e estrutura de &#xe1;rvore. Tanto a representa&#xe7;&#xe3;o formal quanto a gr&#xe1;fica contribuem de forma decisiva para a qualidade da ontologia (LAUFER, 2015)." ID="ID_877989977" CREATED="1544483147737" MODIFIED="1544483151460"/>
 </node>
 <node TEXT="OWL" ID="ID_117031170" CREATED="1543688198046" MODIFIED="1543693717681"><richcontent TYPE="NOTE">
 
@@ -892,6 +919,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A Ontology Web Language (OWL) nasceu da combina&#xe7;&#xe3;o das linguagens OIL (Ontology Inference Layer), desenvolvida pela comunidade de defesa europ&#xe9;ia e da DAML (DARPA Agente Markup Language), criada pelo departamento de defesa americano. Logo tornou-se uma recomenda&#xe7;&#xe3;o do W3C.&#xa;Baseada no RDF, de onde herda a estrutura em triplas e a descri&#xe7;&#xe3;o de recursos com URI, e no RDF-S ao herdar sua sem&#xe2;ntica; &#xe9; uma linguagem declarativa que descreve o conhecimento e permite o uso de ferramentas de infer&#xea;ncia. Por&#xe9;m, n&#xe3;o delimita uma estrutura sint&#xe1;tica (POLLOCK, 2010).&#xa;Armazena informa&#xe7;&#xf5;es (inst&#xe2;ncias) dentro do conceito de mundo aberto (Open-World Assumptions) onde, se um fato n&#xe3;o est&#xe1; presente, ele &#xe9; considerado desconhecido, e n&#xe3;o falso como ocorre no mundo fechado (Closed-World Assumptions) dos bancos de dados tradicionais (LAUFER, 2015).&#xa;Do ponto de vista da sintaxe, &#xe9; poss&#xed;vel serializar documentos OWL nos formatos: RDF/XML (padr&#xe3;o), OWL/XML, Turtle, entre outros. Sempre considerando aspectos importantes da modelagem de conhecimento, tais como: entidades, express&#xf5;es e axiomas.&#xa;Do ponto de vista da sem&#xe2;ntica, OWL estende o RDF-S e &#xe9; uma especializa&#xe7;&#xe3;o da L&#xf3;gica de Descri&#xe7;&#xe3;o. Pode-se especificar sem&#xe2;ntica em OWL de duas formas: Sem&#xe2;ntica Direta (OWL 2 DL) e Sem&#xe2;ntica baseada em RDF (OWL 2 Full). Sendo a primeira mais simplificada e baseada L&#xf3;gica de Descri&#xe7;&#xe3;o e Sem&#xe2;ntica Direta; e a segunda, grafos RDF e na pr&#xf3;pria RDF (ISOTANI;BITTENCOURT, 2015).&#xa;A vers&#xe3;o 2 da OWL possui diversos perfis, projetados para atender as mais variadas necessidades com diferentes n&#xed;veis de expressividade:&#xa;OWL 2 DL: usado para especificar classes complexas e axiomas;&#xa;OWL 2 QL: voltado para bancos de dados relacionais (SQL);&#xa;OWL 2 RL: pr&#xf3;prio para aplica&#xe7;&#xf5;es com necessidades de racioc&#xed;nio ." ID="ID_244000507" CREATED="1544483170732" MODIFIED="1544483176080"/>
 </node>
 <node TEXT="Engenharia de Ontologias" ID="ID_1872243922" CREATED="1543688209152" MODIFIED="1543693805842"><richcontent TYPE="NOTE">
 
@@ -943,6 +971,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="As metodologias para a cria&#xe7;&#xe3;o de ontologias (engenharia de ontologias) originam-se em tr&#xea;s &#xe1;reas da computa&#xe7;&#xe3;o: Intelig&#xea;ncia Artificial, Engenharia de Software e Intera&#xe7;&#xe3;o Humano-Computador (ISOTANI; BITTENCOURT, 2015):&#xa;Intelig&#xea;ncia Artificial: TOVE, Enterprise Model Approaches e IDEF5;&#xa;Engenharia de Software: RUP, XP, Methondology, Ontology Development 101 e RapidOWL;&#xa;IHC: DILIGENT e HCOME.&#xa;Dentre as ferramentas utilizadas para a cria&#xe7;&#xe3;o de ontologias, podemos citar:&#xa;&#xa;Appolo;&#xa;OntoStudio;&#xa;Hozo;&#xa;Prot&#xe9;g&#xe9;;&#xa;TopBraid Composer" ID="ID_1029252868" CREATED="1544483195060" MODIFIED="1544483197189"/>
 </node>
 </node>
 <node TEXT="Linked Data" ID="ID_1052719482" CREATED="1543687529590" MODIFIED="1543687549198">
@@ -1005,7 +1034,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Prot&#xe9;g&#xe9;" ID="ID_240135543" CREATED="1543770754335" MODIFIED="1544123573185"><richcontent TYPE="NOTE">
 
@@ -1028,8 +1056,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="Um editor de ontologias de c&#xf3;digo aberto e sistema de aquisi&#xe7;&#xe3;o de conhecimento.&#xa;&#xa;O Prot&#xe9;g&#xe9; fornece uma interface gr&#xe1;fica para usu&#xe1;rio definir ontologias. Inclui tamb&#xe9;m classificadores dedutivos para validar se os modelos s&#xe3;o consistentes e inferir novas informa&#xe7;&#xf5;es com base na an&#xe1;lise de uma ontologia. Neste trabalho, a ferramenta Prot&#xe9;g&#xe9; ser&#xe1; usada para editar&#xa;ontologias do dom&#xed;nio da sa&#xfa;de e do prontu&#xe1;rio do paciente." ID="ID_954409836" CREATED="1544483232116" MODIFIED="1544483234281"/>
 </node>
 <node TEXT="Blazegraph" ID="ID_534686841" CREATED="1543770761716" MODIFIED="1544124719664"><richcontent TYPE="NOTE">
 
@@ -1043,8 +1071,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="Uma triplestore e um banco de dados de grafos de c&#xf3;digo aberto para armazenar dados conectados (linked data), &#xe9; usado no endpoint SPARQL da Wikidata. Suporta RDF / SPARQL 1.1, compat&#xed;vel com Sesame SAIL 2.7. O Blazegraph RDF store &#xe9; totalmente persistente, suporta RDFS e infer&#xea;ncias em OWL." ID="ID_1041293775" CREATED="1544483247711" MODIFIED="1544483251532"/>
 </node>
 <node TEXT="GraphDB" ID="ID_1875485722" CREATED="1543770785231" MODIFIED="1544125659088"><richcontent TYPE="NOTE">
 
@@ -1058,8 +1086,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="O GraphDB &#xe9; um banco de dados de grafos sem&#xe2;nticos (triplestore), compat&#xed;vel com os padr&#xf5;es W3C. Suporta RDF e SPARQL, usa a biblioteca RDF4J e trabalha com uma variedade de serializa&#xe7;&#xf5;es RDF (ex.: RDF/XML, N3, Turtle)." ID="ID_1858898833" CREATED="1544483259875" MODIFIED="1544483261978"/>
 </node>
 </node>
 </node>
@@ -1077,7 +1105,7 @@
 </node>
 <node TEXT="Proposta" POSITION="right" ID="ID_640999083" CREATED="1543687379654" MODIFIED="1543687386268">
 <edge COLOR="#ffff00"/>
-<node TEXT="Plano de Trabalho" ID="ID_764013697" CREATED="1543687695929" MODIFIED="1544107125267"><richcontent TYPE="NOTE">
+<node TEXT="Plano de Trabalho" ID="ID_764013697" CREATED="1543687695929" MODIFIED="1544483290479"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -1099,6 +1127,7 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="A fim de abordar os problemas apresentados nas se&#xe7;&#xf5;es anteriores, este trabalho investigar&#xe1;&#xa;como integrar informa&#xe7;&#xf5;es de sa&#xfa;de a partir de fontes heterog&#xea;neas. Seu principal objetivo &#xe9; propor mecanismos para vincular os dados de sa&#xfa;de utilizando, principalmente, os dados do prontu&#xe1;rio eletr&#xf4;nico do paciente, pesquisar eficazmente esses conjuntos de dados vinculados e test&#xe1;-los usando casos de uso reais, definidos com a ajuda de especialistas em sa&#xfa;de.&#xa;Tamb&#xe9;m &#xe9; um objetivo propor (ou adotar) um modelo sem&#xe2;ntico (ontologia) do prontu&#xe1;rio elet&#xf4;nico do paciente (pep).&#xa;Tamb&#xe9;m pode ser necess&#xe1;rio capturar dados, a partir de dados semi-estruturados ou n&#xe3;o estruturados, quando esses dados n&#xe3;o estiverem dispon&#xed;veis num formato compat&#xed;vel com RDF." ID="ID_1168724324" CREATED="1544483282845" MODIFIED="1544483310926" MOVED="1544483373769"/>
 <node TEXT="Atividades Completadas" ID="ID_1218632659" CREATED="1543688262098" MODIFIED="1543688270346"/>
 <node TEXT="Atividades Programadas" ID="ID_1749601000" CREATED="1543688270622" MODIFIED="1543688282424"/>
 </node>
